@@ -21,6 +21,3 @@ app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
 
-// DB connection skipped
-// const connectDB = require("./config/db");
-// connectDB();
